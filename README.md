@@ -7,7 +7,7 @@ As a final project (individual) for Human & Computer Interaction course, this pr
 - Navigation Bar
 - Search Bar
 - Register Buttons
-- Carousel Section for Banners
+- Horizontal Scroll section for Banners
 - E-commerce Product Display with Categories
 - Footer with Logo and Hyperlinks
 - Responsiveness
