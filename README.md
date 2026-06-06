@@ -11,5 +11,5 @@ As a final project (individual) for Human & Computer Interaction course, this pr
 - E-commerce Product Display with Categories
 - Footer with Logo and Hyperlinks
 - Responsiveness
-###Output
+### Output
 - 90% Figma to HTML translation
